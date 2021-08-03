@@ -3,12 +3,17 @@
 		padding: 0.5rem;	
 		font-size: 15px;
 
-}
+	}
+	.container {
+		display: flex;
+		padding: 5px 5px;
+	}
 	h5{
 		font-size:smaller;
 		color:#1c2833;
 		display: flex;
 		text-align: top;
+		padding-left: 60px;
 	}
 	body{
 		background: #fdf2e9;
@@ -27,8 +32,8 @@
 	p{
 		text-align: justify;
 		font-family: arial;
-		padding-right: 50px;
-		padding-left: 50px;
+		padding-right: 30px;
+		padding-left: 25px;
 	}
 	h3 {
 		font-family: monospace;
