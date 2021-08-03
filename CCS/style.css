@@ -1,0 +1,84 @@
+	.header {
+		background: #fa8189;
+		padding: 0.5rem;	
+		font-size: 15px;
+
+}
+	h5{
+		font-size:smaller;
+		color:#1c2833;
+		display: flex;
+		text-align: top;
+	}
+	body{
+		background: #fdf2e9;
+	}
+	h1{
+		color: #af7ac5;
+		text-align: center;
+
+	}	
+	h2 {
+		color: #5b2c6f;
+		font-family: arial;
+		text-align: center;
+	}
+
+	p{
+		text-align: justify;
+		font-family: arial;
+		padding-right: 50px;
+		padding-left: 50px;
+	}
+	h3 {
+		font-family: monospace;
+		font-size:medium;
+		color: #1e8449;
+	}
+	h4 {
+		font-family: monospace;
+		font-size: large;
+		color:   #148f77;
+	}
+
+	
+	table{
+		width: auto;
+		border: 5px ridge;
+		border-style: inset;
+		background:  #c1c6f0;
+	}
+		th{	
+		width: auto;
+		color: #4a235a ;
+		vertical-align: top;
+		border: 5px groove #6b3ddb;
+		border-spacing: 5;
+   		padding: 0.5em;
+   		font-family: sans-serif;
+}
+
+.footer .datos{
+		background:#fa8189; 
+		padding: 15px 20px;
+		color:  #1c2833 ;
+		font-size: small;
+		text-align: justify;
+		line-height: 10%;
+
+	}
+
+	.contacto p{
+		text-align: right;
+		font-size: small;
+		line-height: 20%;
+	}
+
+	.copy p{
+		background-color: #884ea0;
+		text-align: center;
+		margin: 0;
+		padding: 10px;
+		color:  #cacfd2  ;
+		margin-bottom: 0;
+	}/home/saramar/Documentos/Modulo2/MWT1A6_ActividadPintorasMexicanas/CCS/style.css
