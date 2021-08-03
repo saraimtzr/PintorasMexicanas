@@ -58,27 +58,3 @@
    		font-family: sans-serif;
 }
 
-.footer .datos{
-		background:#fa8189; 
-		padding: 15px 20px;
-		color:  #1c2833 ;
-		font-size: small;
-		text-align: justify;
-		line-height: 10%;
-
-	}
-
-	.contacto p{
-		text-align: right;
-		font-size: small;
-		line-height: 20%;
-	}
-
-	.copy p{
-		background-color: #884ea0;
-		text-align: center;
-		margin: 0;
-		padding: 10px;
-		color:  #cacfd2  ;
-		margin-bottom: 0;
-	}
